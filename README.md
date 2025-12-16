@@ -12,13 +12,7 @@
   <p align="center">Status: Completed</p>
   <p align="center">An Android productivity app.</p>
 
-  <p align="center">
-    <a href="https://github.com/ArmanKhanTech/MindMaster"><strong>Explore the docs »</strong></a>
-    <br />
-    <a href="https://github.com/ArmanKhanTech/MindMaster/issues">Report a Bug</a>
-    ·
-    <a href="https://github.com/ArmanKhanTech/MindMaster/issues">Request new Feature</a>
-  </p>
+
 </div>
 <br />
 
