@@ -229,41 +229,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Arman Khan - ak2341776@gmail.com
+Anirudha Koli - anirudhakoli282@gmail.com
 
-Project Link - [https://github.com/ArmanKhanTech/MindMaster](https://github.com/ArmanKhanTech/MindMaster)
-
-
-
-## Acknowledgments
+Project Link -https://github.com/Anirudhakoli282/MindMaster
 
 
-**3rd Party Libraries**
-* [Phil Jay's MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)
-* [Lottie Animations](https://github.com/airbnb/lottie-android)
-* [Hank's PasscodeView](https://github.com/hanks-zyh/PasscodeView)
-
-
-
-[contributors-shield]: https://img.shields.io/github/contributors/ArmanKhanTech/MindMaster.svg?style=for-the-badge
-[contributors-url]: https://github.com/ArmanKhanTech/MindMaster/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/ArmanKhanTech/MindMaster.svg?style=for-the-badge
-[forks-url]: https://github.com/ArmanKhanTech/MindMaster/network/members
-[stars-shield]: https://img.shields.io/github/stars/ArmanKhanTech/MindMaster.svg?style=for-the-badge
-[stars-url]: https://github.com/ArmanKhanTech/MindMaster/stargazers
-[issues-shield]: https://img.shields.io/github/issues/ArmanKhanTech/MindMaster.svg?style=for-the-badge
-[issues-url]: https://github.com/ArmanKhanTech/MindMaster/issues
-[license-shield]: https://img.shields.io/github/license/ArmanKhanTech/MindMaster.svg?style=for-the-badge
-[license-url]: https://github.com/ArmanKhanTech/MindMaster/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&Screenshot=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/arman-khan-25b624205/
-[Android]: https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&Screenshot=android-studio&ScreenshotColor=white
-[Android-url]: https://developer.android.com/
-[Java]: https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&Screenshot=openjdk&ScreenshotColor=white
-[Java-url]: https://www.java.com/
-[Kotlin]: https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&Screenshot=kotlin&ScreenshotColor=white
-[Kotlin-url]: https://kotlinlang.org/
-[Gradle]: https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&Screenshot=Gradle&ScreenshotColor=white
-[Gradle-url]: https://gradle.org/
-[Sqlite]: https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&Screenshot=sqlite&ScreenshotColor=white
-[Sqlite-url]: https://www.sqlite.org/
